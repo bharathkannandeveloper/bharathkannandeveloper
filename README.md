@@ -1,6 +1,5 @@
 # 💫 About Me:
          Basically Am a Passionate Coder .....
-         🔭 I’m currently working on Fertilizers Recommendation System For Disease Prediction
          👨‍💻 All of my projects are available at https://linktr.ee/Bharathkannan
          💬 Ask me about Python,C,HTML,CSS,DS,ML,Linux,Cyber Security
          📫 Reach me bharathkannandeveloper@gmail.com
